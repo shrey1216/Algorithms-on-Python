@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-
+"""
 2.1) Matrix Multiplication (naiv algorithm)
 
 https://www.programiz.com/python-programming/matrix
