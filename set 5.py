@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-
 1) Generate a matrix of 32x32
 """
 
